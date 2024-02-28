@@ -2,10 +2,12 @@
     "name": "Mi Página Web",
     "short_name": "Web",
     "description": "Página web profesional con diseño responsivo.",
-    "start_url": "/",
+    "start_url": "./?utm_source=web_app_manifest",
     "display": "standalone",
     "background_color": "#f8f8f8",
     "theme_color": "#4CAF50",
+    "scope": "./",
+    "lang": "es-MX",
     "icons": [
        {
             "src": "img/Logotipo.jpg",
